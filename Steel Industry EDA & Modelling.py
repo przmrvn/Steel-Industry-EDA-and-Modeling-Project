@@ -37,7 +37,7 @@ df = df.rename(columns={'Usage_kWh':'Consumption(kWh)',
 
 # Renaming some columns for cleaner graph labels
 
-'Lagging Power Factor', 'Leading Power Factor'
+
 
 
 # In[5]:
