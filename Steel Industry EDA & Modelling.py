@@ -432,7 +432,7 @@ steps=[('onehot', OneHotEncoder(drop='first', sparse_output=False))])
 # Using the pipeline function is a shorter way of preprocessing the data 
 # Using OneHotEncoder to convert weekstatus and day of week to become categorical features, 
 # drop = 'first' avoids multicollinearity
-# sparse_output = False avoids producing a sparse matrix which is a common out put of a one hot encoders
+# sparse_output = False avoids producing a sparse matrix which is a common output of  onehot encoders
 
 
 numerical_columns = X_train.select_dtypes(include='number').columns
