@@ -2,6 +2,7 @@
 This a portfolio project wherein I deep dive and apply machine learning through the Steel Industry Energy Consumption dataset posted in kaggle. 
 You can use the .py version to view the code and the .ipynb to view the whole project.
 
+Please view the updated versions of the file. 
 
 Reference: 
 CSAFRIT. "Steel Industry Energy Consumption." Kaggle, 2021, 
